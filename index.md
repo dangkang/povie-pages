@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="./assets/icon.png" width="120" alt="Povie" style="border-radius:24px;">
+</p>
+
 # Povie
 
-iOS video purikura app — all processing happens on-device.
+KAWAII video photo booth for iOS — face & hand-gesture effects, beauty filters, and themes. **All processing happens on-device.**
+
+<p align="center">
+  <img src="./assets/shot-01.png" width="220" alt="Screenshot 1">
+  <img src="./assets/shot-02.png" width="220" alt="Screenshot 2">
+  <img src="./assets/shot-03.png" width="220" alt="Screenshot 3">
+</p>
 
 ## What's New
 
