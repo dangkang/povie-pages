@@ -13,20 +13,16 @@ iOS 上的 KAWAII 视频照相亭 — 支持面部・手势特效、美颜滤镜
 <p align="center">
   <img src="./assets/shot-01.png" width="220" alt="截图 1">
   <img src="./assets/shot-02.png" width="220" alt="截图 2">
-  <img src="./assets/shot-03.png" width="220" alt="截图 3">
 </p>
 
 ## 更新
 
-- [Changelog (English)](./changelog.en.md)
-- [更新履歴 (日本語)](./changelog.ja.md)
+- [Changelog](./changelog.en)
 
 ## 法律
 
-- [Privacy Policy (English)](./privacy-policy.en.md)
-- [Privacy Policy (日本語)](./privacy-policy.ja.md)
-- [Terms of Service (English)](./terms-of-service.en.md)
-- [Terms of Service (日本語)](./terms-of-service.ja.md)
+- [Privacy Policy](./privacy-policy.en)
+- [Terms of Service](./terms-of-service.en)
 
 ## 联系
 

@@ -13,20 +13,16 @@ iOS 向け KAWAII ビデオフォトブース — 顔・手のジェスチャー
 <p align="center">
   <img src="./assets/shot-01.png" width="220" alt="スクリーンショット 1">
   <img src="./assets/shot-02.png" width="220" alt="スクリーンショット 2">
-  <img src="./assets/shot-03.png" width="220" alt="スクリーンショット 3">
 </p>
 
 ## 更新情報
 
-- [更新履歴 (日本語)](./changelog.ja.md)
-- [Changelog (English)](./changelog.en.md)
+- [更新履歴](./changelog.ja)
 
 ## 法務
 
-- [プライバシーポリシー (日本語)](./privacy-policy.ja.md)
-- [Privacy Policy (English)](./privacy-policy.en.md)
-- [利用規約 (日本語)](./terms-of-service.ja.md)
-- [Terms of Service (English)](./terms-of-service.en.md)
+- [プライバシーポリシー](./privacy-policy.ja)
+- [利用規約](./terms-of-service.ja)
 
 ## お問い合わせ
 
