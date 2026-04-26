@@ -8,28 +8,28 @@
 
 # Povie
 
-KAWAII video photo booth for iOS — face & hand-gesture effects, beauty filters, and themes. **All processing happens on-device.**
+iOS 上的 KAWAII 視訊照相亭 — 支援臉部・手勢特效、美顏濾鏡、主題。**所有處理均在裝置本機完成。**
 
 <p align="center">
-  <img src="./assets/shot-01.png" width="220" alt="Screenshot 1">
-  <img src="./assets/shot-02.png" width="220" alt="Screenshot 2">
-  <img src="./assets/shot-03.png" width="220" alt="Screenshot 3">
+  <img src="./assets/shot-01.png" width="220" alt="截圖 1">
+  <img src="./assets/shot-02.png" width="220" alt="截圖 2">
+  <img src="./assets/shot-03.png" width="220" alt="截圖 3">
 </p>
 
-## What's New
+## 更新
 
 - [Changelog (English)](./changelog.en.md)
 - [更新履歴 (日本語)](./changelog.ja.md)
 
-## Legal
+## 法律
 
 - [Privacy Policy (English)](./privacy-policy.en.md)
 - [Privacy Policy (日本語)](./privacy-policy.ja.md)
 - [Terms of Service (English)](./terms-of-service.en.md)
 - [Terms of Service (日本語)](./terms-of-service.ja.md)
 
-## Contact
+## 聯絡
 
-- **Developer**: interdisciplinary design lab.
-- **Location**: Tokyo, Japan
-- **Email**: info@dangkang.com
+- **開發者**: interdisciplinary design lab.
+- **所在地**: 東京, 日本
+- **電郵**: info@dangkang.com
