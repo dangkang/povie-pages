@@ -12,7 +12,7 @@ All notable changes to **Povie** are documented here.
 
 - KAWAII video photo booth with face & hand-gesture detection
 - 5 themes: Kawaii (free), Gothic, Gal, Retro, Cool (in-app purchase)
-- Beauty filters: Smooth Skin, Brighten, Big Eyes (in-app purchase)
+- Beauty filters: Smooth Skin, Brighten (in-app purchase)
 - Real-time effects: hearts, sparkles, particles synced to gestures
 - All processing happens on-device — your video never leaves your phone
 
