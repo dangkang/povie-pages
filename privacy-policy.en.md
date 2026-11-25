@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: April 22, 2026**
+**Last updated: November 25, 2026**
 
 interdisciplinary design lab. ("we", "us", or "our") operates the iOS application "Povie" (the "App"). This Privacy Policy describes how we handle your personal information when you use the App.
 
@@ -28,7 +28,7 @@ These are processed in real time solely for the App's features (live preview, ge
 
 ### 2.2 Information Stored Locally on Your Device
 
-- **Recorded videos**: Saved to your Photo Library only when you tap the "Save" button.
+- **Recorded videos**: Saved to your Photo Library automatically when you stop recording, if you have granted access. If the video cannot be saved, the App opens a share sheet so you can export it yourself.
 - **Purchase information**: In-app purchase history managed by Apple via StoreKit. The App itself only retains purchase identifiers locally.
 
 ### 2.3 Information Collected or Transmitted by Third-Party Services
